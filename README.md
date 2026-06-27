@@ -1,4 +1,4 @@
-# 📊 SQL Data Analyst Job Trends Analysis
+# 📊 SQL Data Analyst Job Trends Analysis 
 
 <div align="center">
 
