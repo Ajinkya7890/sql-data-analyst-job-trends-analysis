@@ -1,7 +1,7 @@
 /*
 1.WHAT ARE TOP PAYING DATA ANALYST JOBS? 
 */
-
+ 
 SELECT 
     job_id,
     job_title,
