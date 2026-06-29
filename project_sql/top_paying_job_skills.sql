@@ -1,7 +1,7 @@
 /*
 2.WHAT SKILLS ARE REQUIRED FOR TOP PAYING DATA ANALYST JOBS? 
 */ 
-
+ 
 WITH top_paying_jobs AS (
 
     SELECT 
