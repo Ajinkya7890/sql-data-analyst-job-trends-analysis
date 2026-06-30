@@ -1,5 +1,5 @@
 # 📊 SQL Data Analyst Job Trends Analysis 
-
+ 
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
