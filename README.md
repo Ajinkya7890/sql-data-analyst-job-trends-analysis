@@ -74,7 +74,7 @@ Contains company information associated with job postings.
 ### job_postings_fact.csv
 
 Contains job-related information including:
-
+ 
 * Job Title
 * Salary Information
 * Location
